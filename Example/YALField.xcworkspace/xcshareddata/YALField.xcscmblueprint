@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3656064657EBC82447723C6F8BC98F1186D4F47E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6A892293BF3E44837664765C42F0EB5A41CDB7EB" : 0,
+    "3656064657EBC82447723C6F8BC98F1186D4F47E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "EF53B425-B4DC-48B1-BFD1-DFB260AA6C6A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6A892293BF3E44837664765C42F0EB5A41CDB7EB" : "BMField\/",
+    "3656064657EBC82447723C6F8BC98F1186D4F47E" : "YALField\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "YALField",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/YALField.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git.yalantis.com:igor.muzyka\/YALField.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3656064657EBC82447723C6F8BC98F1186D4F47E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git.yalantis.com:igor.muzyka\/BMField.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6A892293BF3E44837664765C42F0EB5A41CDB7EB"
+    }
+  ]
+}
