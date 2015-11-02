@@ -1,6 +1,6 @@
 PODS:
   - MBProgressHUD (0.9.1)
-  - YALField (1.0.0)
+  - YALField (1.0.1)
 
 DEPENDENCIES:
   - MBProgressHUD
@@ -12,6 +12,6 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
-  YALField: 5f7241d925ece3a4bdda01b1ade41af11519deea
+  YALField: f80f986de790bb13690264422437fa4e0593af0a
 
 COCOAPODS: 0.39.0
