@@ -1,6 +1,7 @@
 #YALField
 
-Custom Field component with validation for easier form-like ui creation from interface builder.
+Custom Field component with validation for creating easier form-like UI from interface builder.
+
 [![Yalantis](./images/YalantisBadgeDark.png)](https://yalantis.com/?utm_source=github)
 
 [![Version](https://img.shields.io/cocoapods/v/YALField.svg?style=flat)](http://cocoapods.org/pods/YALField)
