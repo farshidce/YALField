@@ -74,7 +74,7 @@
         }
         [self.finishResponder performAction:self];
     } else if (!valid && error && self.errorsPresenter) {
-        [self.errorsPresenter presentError:error];
+        [self.errorsPresenter displayError:error];
     }
 }
 

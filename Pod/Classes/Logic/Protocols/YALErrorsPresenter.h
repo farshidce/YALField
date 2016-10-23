@@ -5,6 +5,6 @@
 @protocol YALErrorsPresenter <NSObject>
 
 @required
-- (void)presentError:(NSError *)error;
+- (void)displayError:(NSError *)error;
 
 @end

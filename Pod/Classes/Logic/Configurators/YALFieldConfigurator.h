@@ -24,6 +24,7 @@
 @property (nonatomic, assign) IBInspectable NSInteger keyboardType; // UIKeyboardType
 @property (nonatomic, assign) IBInspectable NSInteger returnKeyType; // UIReturnKeyType
 @property (nonatomic, assign) IBInspectable NSInteger autocapitalizationType; // UITextAutocapitalizationType
+@property (nonatomic, assign) IBInspectable NSInteger autoCorrectionType; // UITextAutocorrectionType
 @property (nonatomic, assign) IBInspectable NSInteger alignment; // UITextAlignment
 
 @property (nonatomic, copy) IBInspectable UIColor *titleColor;

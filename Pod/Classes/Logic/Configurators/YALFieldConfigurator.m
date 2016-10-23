@@ -21,6 +21,7 @@ const struct YALFieldConfiguratorDefaultValues {
     UIKeyboardType keyboardType;
     UIReturnKeyType returnKeyType;
     UITextAutocapitalizationType autocapitalizationType;
+    UITextAutocorrectionType autocorrectionType;
 } YALFieldConfiguratorDefaultValues;
 
 const struct YALFieldConfiguratorDefaultValues YALFieldConfiguratorDefaultValues = {
@@ -39,7 +40,8 @@ const struct YALFieldConfiguratorDefaultValues YALFieldConfiguratorDefaultValues
     .textFieldText = @"Lorem ipsum dolor sit amet",
     .keyboardType = UIKeyboardTypeDefault,
     .returnKeyType = UIReturnKeyDefault,
-    .autocapitalizationType = UITextAutocapitalizationTypeNone
+    .autocapitalizationType = UITextAutocapitalizationTypeNone,
+    .autocorrectionType = UITextAutocorrectionTypeNo
 };
 
 @interface YALFieldConfigurator ()
@@ -84,6 +86,7 @@ const struct YALFieldConfiguratorDefaultValues YALFieldConfiguratorDefaultValues
     self.disabledTextColor = [UIColor yal_fieldInputTitleTextColor];
     self.validTextColor = [UIColor yal_fieldValidInputTextColor];
     self.invalidTextColor = [UIColor yal_fieldInvalidInputTextColor];
+    self.autoCorrectionType = YALFieldConfiguratorDefaultValues.autocorrectionType;
 }
 
 #pragma mark - YALInputConfigurator
@@ -135,6 +138,7 @@ const struct YALFieldConfiguratorDefaultValues YALFieldConfiguratorDefaultValues
     self.field.textField.font = [UIFont fontWithName:self.textFieldFontName size:self.textFieldFontSize];
     self.field.textField.textColor = (self.field.enabled) ? self.textColor : self.disabledTextColor;
     self.field.textField.autocapitalizationType = self.autocapitalizationType;
+    self.field.textField.autocorrectionType = self.autoCorrectionType;
     self.field.textField.keyboardType = self.keyboardType;
     self.field.textField.returnKeyType = self.returnKeyType;
     self.field.textField.textAlignment = self.alignment;
