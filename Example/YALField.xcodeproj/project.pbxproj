@@ -7,52 +7,52 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1C28692C1BD1072D00145D38 /* YALLoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C28692B1BD1072D00145D38 /* YALLoginViewController.m */; settings = {ASSET_TAGS = (); }; };
-		1C28694E1BD16D9A00145D38 /* YALLoginForm.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C28694D1BD16D9A00145D38 /* YALLoginForm.m */; settings = {ASSET_TAGS = (); }; };
-		1C39E8341BDFA75C0099BEEA /* YALOrderField.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C39E8331BDFA75C0099BEEA /* YALOrderField.m */; settings = {ASSET_TAGS = (); }; };
-		1C39E8381BDFAACF0099BEEA /* YALStepperSupplementaryView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C39E8371BDFAACF0099BEEA /* YALStepperSupplementaryView.m */; settings = {ASSET_TAGS = (); }; };
-		1C39E83C1BDFAD680099BEEA /* YALDateNonEmptyValidator.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C39E83B1BDFAD680099BEEA /* YALDateNonEmptyValidator.m */; settings = {ASSET_TAGS = (); }; };
-		1C39E8401BDFADFB0099BEEA /* YALDeliveryTimeFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C39E83F1BDFADFB0099BEEA /* YALDeliveryTimeFormatter.m */; settings = {ASSET_TAGS = (); }; };
-		1C39E8481BDFC4560099BEEA /* YALAlwaysValidValidator.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C39E8471BDFC4560099BEEA /* YALAlwaysValidValidator.m */; settings = {ASSET_TAGS = (); }; };
-		1C39E8511BDFD9450099BEEA /* UIColor+YALExampleColors.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C39E8501BDFD9450099BEEA /* UIColor+YALExampleColors.m */; settings = {ASSET_TAGS = (); }; };
-		1C39E8541BDFD9510099BEEA /* UIImage+YALExampleImages.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C39E8531BDFD9510099BEEA /* UIImage+YALExampleImages.m */; settings = {ASSET_TAGS = (); }; };
-		1C39E8581BDFDE720099BEEA /* YALPaymentField.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C39E8571BDFDE720099BEEA /* YALPaymentField.m */; settings = {ASSET_TAGS = (); }; };
-		1C3FB02B1BDA592300812EEC /* YALProfileViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C3FB02A1BDA592300812EEC /* YALProfileViewController.m */; settings = {ASSET_TAGS = (); }; };
-		1C3FB02E1BDA593100812EEC /* YALEditProfileViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C3FB02D1BDA593100812EEC /* YALEditProfileViewController.m */; settings = {ASSET_TAGS = (); }; };
-		1C3FB0311BDA593A00812EEC /* YALOrderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C3FB0301BDA593A00812EEC /* YALOrderViewController.m */; settings = {ASSET_TAGS = (); }; };
-		1C3FB0341BDA594300812EEC /* YALPaymentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C3FB0331BDA594300812EEC /* YALPaymentViewController.m */; settings = {ASSET_TAGS = (); }; };
-		1C3FB03B1BDA8B3700812EEC /* YALEditProfileConfigurator.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C3FB03A1BDA8B3700812EEC /* YALEditProfileConfigurator.m */; settings = {ASSET_TAGS = (); }; };
-		1C3FB0411BDA8B4F00812EEC /* YALOrderConfigurator.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C3FB0401BDA8B4F00812EEC /* YALOrderConfigurator.m */; settings = {ASSET_TAGS = (); }; };
-		1C3FB0441BDA8B5700812EEC /* YALPaymentConfigurator.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C3FB0431BDA8B5700812EEC /* YALPaymentConfigurator.m */; settings = {ASSET_TAGS = (); }; };
-		1C510D581BDE685900EF4FC4 /* YALUser.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C510D571BDE685900EF4FC4 /* YALUser.m */; settings = {ASSET_TAGS = (); }; };
-		1C510D5B1BDE76EE00EF4FC4 /* YALEditProfileField.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C510D5A1BDE76EE00EF4FC4 /* YALEditProfileField.m */; settings = {ASSET_TAGS = (); }; };
-		1C510D5F1BDE993100EF4FC4 /* YALCustomResponder.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C510D5E1BDE993100EF4FC4 /* YALCustomResponder.m */; settings = {ASSET_TAGS = (); }; };
-		1C54A6FA1BD92FD600F64FB6 /* YALProfileForm.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C54A6F91BD92FD600F64FB6 /* YALProfileForm.m */; settings = {ASSET_TAGS = (); }; };
-		1C54A6FD1BD92FF500F64FB6 /* YALEditProfileForm.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C54A6FC1BD92FF500F64FB6 /* YALEditProfileForm.m */; settings = {ASSET_TAGS = (); }; };
-		1C54A7001BD9300300F64FB6 /* YALOrderForm.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C54A6FF1BD9300300F64FB6 /* YALOrderForm.m */; settings = {ASSET_TAGS = (); }; };
-		1C54A7031BD9300E00F64FB6 /* YALPaymentForm.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C54A7021BD9300E00F64FB6 /* YALPaymentForm.m */; settings = {ASSET_TAGS = (); }; };
-		1C8E3A501BE3C9CF0009A4DA /* YALExampleValidatingSupplementaryView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C8E3A4F1BE3C9CF0009A4DA /* YALExampleValidatingSupplementaryView.m */; settings = {ASSET_TAGS = (); }; };
-		1C9A41311BE00686009D1B6A /* YALExpirationDateFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C9A41301BE00686009D1B6A /* YALExpirationDateFormatter.m */; settings = {ASSET_TAGS = (); }; };
-		1CAA73A91BD0FFF100D0C21E /* YALAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CAA73A81BD0FFF100D0C21E /* YALAppDelegate.m */; settings = {ASSET_TAGS = (); }; };
-		1CAA73B71BD1000400D0C21E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1CAA73B61BD1000400D0C21E /* Images.xcassets */; settings = {ASSET_TAGS = (); }; };
-		1CAA73BC1BD1005000D0C21E /* YALBaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CAA73BB1BD1005000D0C21E /* YALBaseViewController.m */; settings = {ASSET_TAGS = (); }; };
-		1CAA73C01BD1013C00D0C21E /* YALRegistrationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CAA73BF1BD1013C00D0C21E /* YALRegistrationViewController.m */; settings = {ASSET_TAGS = (); }; };
-		1CC726CA1BE26D2E0043C681 /* YALOrderStepperSupplementaryView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CC726C91BE26D2E0043C681 /* YALOrderStepperSupplementaryView.m */; settings = {ASSET_TAGS = (); }; };
-		1CD269261BD7E8C000EA9B0E /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1CD269231BD7E8C000EA9B0E /* Launch Screen.storyboard */; settings = {ASSET_TAGS = (); }; };
-		1CD269271BD7E8C000EA9B0E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1CD269251BD7E8C000EA9B0E /* Main.storyboard */; settings = {ASSET_TAGS = (); }; };
-		1CD2693A1BD7E95300EA9B0E /* YALCreditCardCvvValidator.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CD269301BD7E95300EA9B0E /* YALCreditCardCvvValidator.m */; settings = {ASSET_TAGS = (); }; };
-		1CD2693B1BD7E95300EA9B0E /* YALEmailValidator.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CD269331BD7E95300EA9B0E /* YALEmailValidator.m */; settings = {ASSET_TAGS = (); }; };
-		1CD2693C1BD7E95300EA9B0E /* YALPasswordValidator.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CD269361BD7E95300EA9B0E /* YALPasswordValidator.m */; settings = {ASSET_TAGS = (); }; };
-		1CD2693D1BD7E95300EA9B0E /* YALPhoneNumberValidator.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CD269391BD7E95300EA9B0E /* YALPhoneNumberValidator.m */; settings = {ASSET_TAGS = (); }; };
-		1CD269431BD7EF0100EA9B0E /* YALCreditCardNumberFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CD269411BD7EF0100EA9B0E /* YALCreditCardNumberFormatter.m */; settings = {ASSET_TAGS = (); }; };
-		1CD269461BD7EF1D00EA9B0E /* YALPhoneNumberFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CD269451BD7EF1D00EA9B0E /* YALPhoneNumberFormatter.m */; settings = {ASSET_TAGS = (); }; };
-		1CD2694B1BD7F25F00EA9B0E /* YALExampleErrorsProvider.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CD2694A1BD7F25F00EA9B0E /* YALExampleErrorsProvider.m */; settings = {ASSET_TAGS = (); }; };
-		1CE36BC91BDB9950004A22ED /* YALRegistrationField.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CE36BC81BDB9950004A22ED /* YALRegistrationField.m */; settings = {ASSET_TAGS = (); }; };
-		1CE648461BDF910100EAFFDA /* YALBirthDateFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CE648451BDF910100EAFFDA /* YALBirthDateFormatter.m */; settings = {ASSET_TAGS = (); }; };
-		1CF1799F1BD6B3AA00FF80BA /* YALRegistrationForm.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CF1799E1BD6B3AA00FF80BA /* YALRegistrationForm.m */; settings = {ASSET_TAGS = (); }; };
-		1CF179A51BD6B3E700FF80BA /* YALLoginConfigurator.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CF179A41BD6B3E700FF80BA /* YALLoginConfigurator.m */; settings = {ASSET_TAGS = (); }; };
-		1CF179A81BD6B3F400FF80BA /* YALRegistrationConfigurator.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CF179A71BD6B3F400FF80BA /* YALRegistrationConfigurator.m */; settings = {ASSET_TAGS = (); }; };
-		1CF912B41BDC5B0F001CBB21 /* YALLoginField.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CF912B31BDC5B0F001CBB21 /* YALLoginField.m */; settings = {ASSET_TAGS = (); }; };
+		1C28692C1BD1072D00145D38 /* YALLoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C28692B1BD1072D00145D38 /* YALLoginViewController.m */; };
+		1C28694E1BD16D9A00145D38 /* YALLoginForm.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C28694D1BD16D9A00145D38 /* YALLoginForm.m */; };
+		1C39E8341BDFA75C0099BEEA /* YALOrderField.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C39E8331BDFA75C0099BEEA /* YALOrderField.m */; };
+		1C39E8381BDFAACF0099BEEA /* YALStepperSupplementaryView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C39E8371BDFAACF0099BEEA /* YALStepperSupplementaryView.m */; };
+		1C39E83C1BDFAD680099BEEA /* YALDateNonEmptyValidator.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C39E83B1BDFAD680099BEEA /* YALDateNonEmptyValidator.m */; };
+		1C39E8401BDFADFB0099BEEA /* YALDeliveryTimeFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C39E83F1BDFADFB0099BEEA /* YALDeliveryTimeFormatter.m */; };
+		1C39E8481BDFC4560099BEEA /* YALAlwaysValidValidator.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C39E8471BDFC4560099BEEA /* YALAlwaysValidValidator.m */; };
+		1C39E8511BDFD9450099BEEA /* UIColor+YALExampleColors.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C39E8501BDFD9450099BEEA /* UIColor+YALExampleColors.m */; };
+		1C39E8541BDFD9510099BEEA /* UIImage+YALExampleImages.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C39E8531BDFD9510099BEEA /* UIImage+YALExampleImages.m */; };
+		1C39E8581BDFDE720099BEEA /* YALPaymentField.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C39E8571BDFDE720099BEEA /* YALPaymentField.m */; };
+		1C3FB02B1BDA592300812EEC /* YALProfileViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C3FB02A1BDA592300812EEC /* YALProfileViewController.m */; };
+		1C3FB02E1BDA593100812EEC /* YALEditProfileViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C3FB02D1BDA593100812EEC /* YALEditProfileViewController.m */; };
+		1C3FB0311BDA593A00812EEC /* YALOrderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C3FB0301BDA593A00812EEC /* YALOrderViewController.m */; };
+		1C3FB0341BDA594300812EEC /* YALPaymentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C3FB0331BDA594300812EEC /* YALPaymentViewController.m */; };
+		1C3FB03B1BDA8B3700812EEC /* YALEditProfileConfigurator.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C3FB03A1BDA8B3700812EEC /* YALEditProfileConfigurator.m */; };
+		1C3FB0411BDA8B4F00812EEC /* YALOrderConfigurator.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C3FB0401BDA8B4F00812EEC /* YALOrderConfigurator.m */; };
+		1C3FB0441BDA8B5700812EEC /* YALPaymentConfigurator.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C3FB0431BDA8B5700812EEC /* YALPaymentConfigurator.m */; };
+		1C510D581BDE685900EF4FC4 /* YALUser.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C510D571BDE685900EF4FC4 /* YALUser.m */; };
+		1C510D5B1BDE76EE00EF4FC4 /* YALEditProfileField.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C510D5A1BDE76EE00EF4FC4 /* YALEditProfileField.m */; };
+		1C510D5F1BDE993100EF4FC4 /* YALCustomResponder.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C510D5E1BDE993100EF4FC4 /* YALCustomResponder.m */; };
+		1C54A6FA1BD92FD600F64FB6 /* YALProfileForm.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C54A6F91BD92FD600F64FB6 /* YALProfileForm.m */; };
+		1C54A6FD1BD92FF500F64FB6 /* YALEditProfileForm.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C54A6FC1BD92FF500F64FB6 /* YALEditProfileForm.m */; };
+		1C54A7001BD9300300F64FB6 /* YALOrderForm.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C54A6FF1BD9300300F64FB6 /* YALOrderForm.m */; };
+		1C54A7031BD9300E00F64FB6 /* YALPaymentForm.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C54A7021BD9300E00F64FB6 /* YALPaymentForm.m */; };
+		1C8E3A501BE3C9CF0009A4DA /* YALExampleValidatingSupplementaryView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C8E3A4F1BE3C9CF0009A4DA /* YALExampleValidatingSupplementaryView.m */; };
+		1C9A41311BE00686009D1B6A /* YALExpirationDateFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C9A41301BE00686009D1B6A /* YALExpirationDateFormatter.m */; };
+		1CAA73A91BD0FFF100D0C21E /* YALAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CAA73A81BD0FFF100D0C21E /* YALAppDelegate.m */; };
+		1CAA73B71BD1000400D0C21E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1CAA73B61BD1000400D0C21E /* Images.xcassets */; };
+		1CAA73BC1BD1005000D0C21E /* YALBaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CAA73BB1BD1005000D0C21E /* YALBaseViewController.m */; };
+		1CAA73C01BD1013C00D0C21E /* YALRegistrationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CAA73BF1BD1013C00D0C21E /* YALRegistrationViewController.m */; };
+		1CC726CA1BE26D2E0043C681 /* YALOrderStepperSupplementaryView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CC726C91BE26D2E0043C681 /* YALOrderStepperSupplementaryView.m */; };
+		1CD269261BD7E8C000EA9B0E /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1CD269231BD7E8C000EA9B0E /* Launch Screen.storyboard */; };
+		1CD269271BD7E8C000EA9B0E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1CD269251BD7E8C000EA9B0E /* Main.storyboard */; };
+		1CD2693A1BD7E95300EA9B0E /* YALCreditCardCvvValidator.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CD269301BD7E95300EA9B0E /* YALCreditCardCvvValidator.m */; };
+		1CD2693B1BD7E95300EA9B0E /* YALEmailValidator.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CD269331BD7E95300EA9B0E /* YALEmailValidator.m */; };
+		1CD2693C1BD7E95300EA9B0E /* YALPasswordValidator.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CD269361BD7E95300EA9B0E /* YALPasswordValidator.m */; };
+		1CD2693D1BD7E95300EA9B0E /* YALPhoneNumberValidator.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CD269391BD7E95300EA9B0E /* YALPhoneNumberValidator.m */; };
+		1CD269431BD7EF0100EA9B0E /* YALCreditCardNumberFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CD269411BD7EF0100EA9B0E /* YALCreditCardNumberFormatter.m */; };
+		1CD269461BD7EF1D00EA9B0E /* YALPhoneNumberFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CD269451BD7EF1D00EA9B0E /* YALPhoneNumberFormatter.m */; };
+		1CD2694B1BD7F25F00EA9B0E /* YALExampleErrorsProvider.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CD2694A1BD7F25F00EA9B0E /* YALExampleErrorsProvider.m */; };
+		1CE36BC91BDB9950004A22ED /* YALRegistrationField.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CE36BC81BDB9950004A22ED /* YALRegistrationField.m */; };
+		1CE648461BDF910100EAFFDA /* YALBirthDateFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CE648451BDF910100EAFFDA /* YALBirthDateFormatter.m */; };
+		1CF1799F1BD6B3AA00FF80BA /* YALRegistrationForm.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CF1799E1BD6B3AA00FF80BA /* YALRegistrationForm.m */; };
+		1CF179A51BD6B3E700FF80BA /* YALLoginConfigurator.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CF179A41BD6B3E700FF80BA /* YALLoginConfigurator.m */; };
+		1CF179A81BD6B3F400FF80BA /* YALRegistrationConfigurator.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CF179A71BD6B3F400FF80BA /* YALRegistrationConfigurator.m */; };
+		1CF912B41BDC5B0F001CBB21 /* YALLoginField.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CF912B31BDC5B0F001CBB21 /* YALLoginField.m */; };
 		6003F58E195388D20070C39A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58D195388D20070C39A /* Foundation.framework */; };
 		6003F590195388D20070C39A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58F195388D20070C39A /* CoreGraphics.framework */; };
 		6003F592195388D20070C39A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F591195388D20070C39A /* UIKit.framework */; };
@@ -63,8 +63,7 @@
 		6003F5B2195388D20070C39A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F591195388D20070C39A /* UIKit.framework */; };
 		6003F5BA195388D20070C39A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6003F5B8195388D20070C39A /* InfoPlist.strings */; };
 		6003F5BC195388D20070C39A /* Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F5BB195388D20070C39A /* Tests.m */; };
-		6C9EBAF983D4ACBAA8EB64A6 /* Pods_YALField_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52AF6340499C32A709578296 /* Pods_YALField_Example.framework */; };
-		CDE38B66CCE4EF2F591254D2 /* Pods_YALField_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3919D635D5F1F7C397BA22B5 /* Pods_YALField_Tests.framework */; };
+		E2EEC6FB21AA5C600AE4BB17 /* Pods_YALField_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9620190BD65B479A8A7B4209 /* Pods_YALField_Example.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -168,9 +167,6 @@
 		1CF179A71BD6B3F400FF80BA /* YALRegistrationConfigurator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YALRegistrationConfigurator.m; sourceTree = "<group>"; };
 		1CF912B21BDC5B0F001CBB21 /* YALLoginField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YALLoginField.h; sourceTree = "<group>"; };
 		1CF912B31BDC5B0F001CBB21 /* YALLoginField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YALLoginField.m; sourceTree = "<group>"; };
-		2725364A31BC0762C06C3A9B /* Pods-YALField_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YALField_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-YALField_Example/Pods-YALField_Example.release.xcconfig"; sourceTree = "<group>"; };
-		3919D635D5F1F7C397BA22B5 /* Pods_YALField_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YALField_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		52AF6340499C32A709578296 /* Pods_YALField_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YALField_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		52ECD9727F7B039FFB82FBA3 /* YALField.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = YALField.podspec; path = ../YALField.podspec; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* YALField_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YALField_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -186,11 +182,11 @@
 		6003F5B9195388D20070C39A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
-		68C037204D7529AC8645E47E /* Pods-YALField_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YALField_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-YALField_Tests/Pods-YALField_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		9299BB3F7CE8A9B836256C74 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		CAC3960C2CCE902C0FAD766E /* Pods-YALField_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YALField_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-YALField_Tests/Pods-YALField_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		9620190BD65B479A8A7B4209 /* Pods_YALField_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YALField_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B049E0EB3F807E8A1DE9E7ED /* Pods-YALField_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YALField_Example.debug.xcconfig"; path = "Target Support Files/Pods-YALField_Example/Pods-YALField_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		BC8BBAD74D16C58115BC1B55 /* Pods-YALField_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YALField_Example.release.xcconfig"; path = "Target Support Files/Pods-YALField_Example/Pods-YALField_Example.release.xcconfig"; sourceTree = "<group>"; };
 		D988F04134CDD57479F93AAA /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		F7F55C86FA7959F5A315D986 /* Pods-YALField_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YALField_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-YALField_Example/Pods-YALField_Example.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -201,7 +197,7 @@
 				6003F590195388D20070C39A /* CoreGraphics.framework in Frameworks */,
 				6003F592195388D20070C39A /* UIKit.framework in Frameworks */,
 				6003F58E195388D20070C39A /* Foundation.framework in Frameworks */,
-				6C9EBAF983D4ACBAA8EB64A6 /* Pods_YALField_Example.framework in Frameworks */,
+				E2EEC6FB21AA5C600AE4BB17 /* Pods_YALField_Example.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -212,7 +208,6 @@
 				6003F5B0195388D20070C39A /* XCTest.framework in Frameworks */,
 				6003F5B2195388D20070C39A /* UIKit.framework in Frameworks */,
 				6003F5B1195388D20070C39A /* Foundation.framework in Frameworks */,
-				CDE38B66CCE4EF2F591254D2 /* Pods_YALField_Tests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -792,17 +787,6 @@
 			path = Registration;
 			sourceTree = "<group>";
 		};
-		57DB3D6E3EB786C110A2D877 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				F7F55C86FA7959F5A315D986 /* Pods-YALField_Example.debug.xcconfig */,
-				2725364A31BC0762C06C3A9B /* Pods-YALField_Example.release.xcconfig */,
-				68C037204D7529AC8645E47E /* Pods-YALField_Tests.debug.xcconfig */,
-				CAC3960C2CCE902C0FAD766E /* Pods-YALField_Tests.release.xcconfig */,
-			);
-			name = Pods;
-			sourceTree = "<group>";
-		};
 		6003F581195388D10070C39A = {
 			isa = PBXGroup;
 			children = (
@@ -811,7 +795,7 @@
 				6003F5B5195388D20070C39A /* Tests */,
 				6003F58C195388D20070C39A /* Frameworks */,
 				6003F58B195388D20070C39A /* Products */,
-				57DB3D6E3EB786C110A2D877 /* Pods */,
+				8FF6E217F6C65E2788FFD279 /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -831,8 +815,7 @@
 				6003F58F195388D20070C39A /* CoreGraphics.framework */,
 				6003F591195388D20070C39A /* UIKit.framework */,
 				6003F5AF195388D20070C39A /* XCTest.framework */,
-				52AF6340499C32A709578296 /* Pods_YALField_Example.framework */,
-				3919D635D5F1F7C397BA22B5 /* Pods_YALField_Tests.framework */,
+				9620190BD65B479A8A7B4209 /* Pods_YALField_Example.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -891,6 +874,15 @@
 			name = "Podspec Metadata";
 			sourceTree = "<group>";
 		};
+		8FF6E217F6C65E2788FFD279 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				B049E0EB3F807E8A1DE9E7ED /* Pods-YALField_Example.debug.xcconfig */,
+				BC8BBAD74D16C58115BC1B55 /* Pods-YALField_Example.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -898,12 +890,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 6003F5BF195388D20070C39A /* Build configuration list for PBXNativeTarget "YALField_Example" */;
 			buildPhases = (
-				051066126F32119FBBEFAC25 /* Check Pods Manifest.lock */,
+				6D65889FC0447B84DAA4D3BB /* [CP] Check Pods Manifest.lock */,
 				6003F586195388D20070C39A /* Sources */,
 				6003F587195388D20070C39A /* Frameworks */,
 				6003F588195388D20070C39A /* Resources */,
-				BB236CB3A8DC9002502C4B56 /* Embed Pods Frameworks */,
-				C66C7270F76480C86A591FD4 /* Copy Pods Resources */,
+				D90D47D7A2D936491051F9B9 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -918,12 +909,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 6003F5C2195388D20070C39A /* Build configuration list for PBXNativeTarget "YALField_Tests" */;
 			buildPhases = (
-				51CAAA915DDA40398B455B7A /* Check Pods Manifest.lock */,
 				6003F5AA195388D20070C39A /* Sources */,
 				6003F5AB195388D20070C39A /* Frameworks */,
 				6003F5AC195388D20070C39A /* Resources */,
-				B90031F1D7CD04A8AA966757 /* Embed Pods Frameworks */,
-				3A53686D4123A57F6827BA9B /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -942,9 +930,12 @@
 			isa = PBXProject;
 			attributes = {
 				CLASSPREFIX = YAL;
-				LastUpgradeCheck = 0510;
+				LastUpgradeCheck = 1010;
 				ORGANIZATIONNAME = "Igor Muzyka";
 				TargetAttributes = {
+					6003F589195388D20070C39A = {
+						DevelopmentTeam = VR4682XU3B;
+					};
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;
 					};
@@ -952,7 +943,7 @@
 			};
 			buildConfigurationList = 6003F585195388D10070C39A /* Build configuration list for PBXProject "YALField" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
@@ -992,94 +983,50 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		051066126F32119FBBEFAC25 /* Check Pods Manifest.lock */ = {
+		6D65889FC0447B84DAA4D3BB /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputPaths = (
+			inputFileListPaths = (
 			);
-			name = "Check Pods Manifest.lock";
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
 			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-YALField_Example-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		3A53686D4123A57F6827BA9B /* Copy Pods Resources */ = {
+		D90D47D7A2D936491051F9B9 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputPaths = (
+			inputFileListPaths = (
 			);
-			name = "Copy Pods Resources";
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-YALField_Example/Pods-YALField_Example-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework",
+				"${BUILT_PRODUCTS_DIR}/YALField/YALField.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+			);
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MBProgressHUD.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/YALField.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-YALField_Tests/Pods-YALField_Tests-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		51CAAA915DDA40398B455B7A /* Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "Check Pods Manifest.lock";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-		B90031F1D7CD04A8AA966757 /* Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-YALField_Tests/Pods-YALField_Tests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		BB236CB3A8DC9002502C4B56 /* Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-YALField_Example/Pods-YALField_Example-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		C66C7270F76480C86A591FD4 /* Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-YALField_Example/Pods-YALField_Example-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-YALField_Example/Pods-YALField_Example-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -1182,18 +1129,32 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
@@ -1221,18 +1182,31 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
@@ -1248,14 +1222,16 @@
 		};
 		6003F5C0195388D20070C39A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F7F55C86FA7959F5A315D986 /* Pods-YALField_Example.debug.xcconfig */;
+			baseConfigurationReference = B049E0EB3F807E8A1DE9E7ED /* Pods-YALField_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = VR4682XU3B;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "YALField/YALField-Prefix.pch";
 				INFOPLIST_FILE = "YALField/YALField-Info.plist";
 				MODULE_NAME = ExampleApp;
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -1263,14 +1239,16 @@
 		};
 		6003F5C1195388D20070C39A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2725364A31BC0762C06C3A9B /* Pods-YALField_Example.release.xcconfig */;
+			baseConfigurationReference = BC8BBAD74D16C58115BC1B55 /* Pods-YALField_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = VR4682XU3B;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "YALField/YALField-Prefix.pch";
 				INFOPLIST_FILE = "YALField/YALField-Info.plist";
 				MODULE_NAME = ExampleApp;
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -1278,7 +1256,6 @@
 		};
 		6003F5C3195388D20070C39A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 68C037204D7529AC8645E47E /* Pods-YALField_Tests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				FRAMEWORK_SEARCH_PATHS = (
@@ -1293,6 +1270,7 @@
 					"$(inherited)",
 				);
 				INFOPLIST_FILE = "Tests/Tests-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/YALField_Example.app/YALField_Example";
 				WRAPPER_EXTENSION = xctest;
@@ -1301,7 +1279,6 @@
 		};
 		6003F5C4195388D20070C39A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CAC3960C2CCE902C0FAD766E /* Pods-YALField_Tests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				FRAMEWORK_SEARCH_PATHS = (
@@ -1312,6 +1289,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Tests/Tests-Prefix.pch";
 				INFOPLIST_FILE = "Tests/Tests-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/YALField_Example.app/YALField_Example";
 				WRAPPER_EXTENSION = xctest;
